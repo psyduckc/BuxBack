@@ -3,7 +3,7 @@
     "alert": "this is a test",
     "items": 0.14,
     "gamepasses": 0.04,
-    "clothing": 0.04,
+    "clothing": 0.0,
     "limiteds": 0.0,
     "cashbackEnabled": true
 }
