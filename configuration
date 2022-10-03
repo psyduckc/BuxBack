@@ -5,5 +5,5 @@
     "gamepasses": 0.1,
     "clothing": 0.0,
     "limiteds": 0.0,
-    "cashbackEnabled": false
+    "cashbackEnabled": true
 }
